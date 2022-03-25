@@ -1298,7 +1298,7 @@ a:active, a:hover { color: #990000; text-decoration: none; }
 }
 .templatemo_sectionUV {
 
-	
+	position:fixed;
 	height: 200px;
 	width:220px;
 	margin: 0 0 0 0;
